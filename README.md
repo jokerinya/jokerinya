@@ -13,8 +13,6 @@
 
 ## :email: Find me on:
 
-
-
 <p align="center">
  <a href="https://hyperlinksoft.com/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.linkedin.com/in/jokerinya" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="40" style="vertical-align:top; margin:4px"></a>
@@ -60,16 +58,16 @@
 ## :trophy: My Github Stats:
 
 <div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=jokerinya2013&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=jokerinya2013&count_private=true&show_icons=true&theme=tokyonight" />
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=jokerinya2013&count_private=true&show_icons=true&theme=default">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=jokerinya2013&count_private=true&show_icons=true&theme=default" />
 </a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=jokerinya2013&hide=php&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=jokerinya2013&hide=php&theme=tokyonight" />
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=jokerinya2013&hide=php&theme=default">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=jokerinya2013&hide=php&theme=default" />
 </a>
 </div>
 
 
 
-[website]: https://hyperlinksoft.com/
+<!-- [website]: https://hyperlinksoft.com/
 [linkedin]: https://linkedin.com/in/jokerinya
-[mail]: mailto:sakacibrahim@gmail.com
+[mail]: mailto:sakacibrahim@gmail.com -->
