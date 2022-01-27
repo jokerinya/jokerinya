@@ -55,7 +55,7 @@
 <br />
 
 
-## :trophy: My Github Stats:
+<!-- ## :trophy: My Github Stats:
 
 <div>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=jokerinya2013&count_private=true&show_icons=true&theme=default">
@@ -64,10 +64,10 @@
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=jokerinya2013&hide=php&theme=default">
   <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=jokerinya2013&hide=php&theme=default" />
 </a>
-</div>
+</div> -->
 
 
 
 <!-- [website]: https://hyperlinksoft.com/
-[linkedin]: https://linkedin.com/in/jokerinya
+[linkedin]: https://linkedin.com/in/ibrahimsakaci
 [mail]: mailto:sakacibrahim@gmail.com -->
