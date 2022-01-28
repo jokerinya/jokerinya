@@ -4,8 +4,8 @@
 ## 🎓 I'm a Lifetime Learner 😊
 
 - 🔭 I’m currently developing a HRMS project with [kodlama.io](https://kodlama.io) and learning Java and React.
-- 👯 I’m looking to collaborate with anyone on any project.
-- ⌛ Before, I worked on VueJS, Django and Laravel on web development.
+- 👯 I’m looking to collaborate with anyone on any valuable project.
+- ⌛ Before, I worked on VueJS, React, Spring, and Django on web development.
 - 📜 I’m AWS Certified SAA and Certified CP.
 - ✔️ I have finished a [Bootcamp](https://clarusway.com) on AWS-DevOps path. 
 - 💬 Ask me about anything.
