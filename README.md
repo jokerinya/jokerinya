@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Ibrahim but you can call me Joker too. 😀
-![](https://visitor-badge.laobi.icu/badge?page_id=jokerinya2013.jokerinya2013) [![Github](https://img.shields.io/github/followers/jokerinya2013?label=Followers&logo=Github)](https://github.com/jokerinya2013)
+![](https://visitor-badge.laobi.icu/badge?page_id=jokerinya.jokerinya) [![Github](https://img.shields.io/github/followers/jokerinya?label=Followers&logo=Github)](https://github.com/jokerinya)
 
 ## 🎓 I'm a Lifetime Learner, Really! 😊
 
