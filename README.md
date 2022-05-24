@@ -1,22 +1,22 @@
 ## Hi there 👋 I'm Ibrahim but you can call me Joker too. 😀
 ![](https://visitor-badge.laobi.icu/badge?page_id=jokerinya2013.jokerinya2013) [![Github](https://img.shields.io/github/followers/jokerinya2013?label=Followers&logo=Github)](https://github.com/jokerinya2013)
 
-## 🎓 I'm a Lifetime Learner 😊
+## 🎓 I'm a Lifetime Learner, Really! 😊
 
-- 🔭 I’m currently developing a HRMS project with [kodlama.io](https://kodlama.io) and learning Java and React.
-- 👯 I’m looking to collaborate with anyone on any valuable project.
-- ⌛ Before, I worked on VueJS, React, Spring, and Django on web development.
+- 🔭 I’m have learned mostly by myself what I learned.
+- 👯 I'm looking to collaborate on valuable projects.
+- ⌛  I have learned and continue to learn web development (FullStack Development).
 - 📜 I’m AWS Certified SAA and Certified CP.
-- ✔️ I have finished a [Bootcamp](https://clarusway.com) on AWS-DevOps path. 
+- ✔️ I have finished a [Bootcamp](https://clarusway.com) on AWS-DevOps path (Docker, Linux, Jenkins, AWS hands-on expreiences). 
 - 💬 Ask me about anything.
-- ⚡ Fun fact: I love playing tennis and swimming.
+- ⚡ Fun fact: I love playing tennis and swimming. Now also I should add, Judo 🥋
 
 ## :email: Find me on:
 
 <p align="center">
  <a href="https://hyperlinksoft.com/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.linkedin.com/in/jokerinya" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:sakacibrahim@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
+ <a href="https://www.linkedin.com/in/ibrahimsakaci" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:sakacibrahim@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a> 
 </p>
 <br />
 
@@ -55,19 +55,10 @@
 <br />
 
 
-<!-- ## :trophy: My Github Stats:
+## :trophy: My Github Stats:
 
 <div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=jokerinya2013&count_private=true&show_icons=true&theme=default">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=jokerinya2013&count_private=true&show_icons=true&theme=default" />
-</a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=jokerinya2013&hide=php&theme=default">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=jokerinya2013&hide=php&theme=default" />
-</a>
-</div> -->
-
-
-
-<!-- [website]: https://hyperlinksoft.com/
-[linkedin]: https://linkedin.com/in/ibrahimsakaci
-[mail]: mailto:sakacibrahim@gmail.com -->
+<img src="https://github-readme-stats.vercel.app/api?username=jokerinya&count_private=true&show_icons=true&theme=merko" > 
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokerinya&layout=compact&theme=merko" />
+</div>
