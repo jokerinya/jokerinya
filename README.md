@@ -4,8 +4,8 @@
 ## 🎓 I'm a Lifetime Learner, Really! 😊
 
 - 🔭 I’m have learned mostly by myself what I learned.
-- 👯 I'm looking to collaborate on valuable projects.
-- ⌛  I have learned and continue to learn web development (FullStack Development).
+- 👯 Nowadays, I'm a student at [Cloud Developer Academy](https://www.saranen.fi/rekrytointikoulutus/cloud-developer-academy), Saranen.
+- ⌛  I have learned and continue to learn cloud development (FullStack Development).
 - 📜 I’m AWS Certified SAA and Certified CP.
 - ✔️ I have finished a [Bootcamp](https://clarusway.com) on AWS-DevOps path (Docker, Linux, Jenkins, AWS hands-on expreiences). 
 - 💬 Ask me about anything.
