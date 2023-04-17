@@ -1,15 +1,12 @@
-## Hi there 👋 I'm Ibrahim but you can call me Joker too. 😀
+## Hi there 👋 I'm Ibrahim 😊
 ![](https://visitor-badge.laobi.icu/badge?page_id=jokerinya.jokerinya) [![Github](https://img.shields.io/github/followers/jokerinya?label=Followers&logo=Github)](https://github.com/jokerinya)
 
-## 🎓 I'm a Lifetime Learner, Really! 😊
+## 🎓 I'm a Lifetime Learner!
 
-- 🔭 I’m have learned mostly by myself what I learned.
-- 👯 Nowadays, I'm a student at [Cloud Developer Academy](https://www.saranen.fi/rekrytointikoulutus/cloud-developer-academy), Saranen.
-- ⌛  I have learned and continue to learn cloud development (FullStack Development).
+- 🔭 I have learned mostly by myself what I learned.
+- 👯 Nowadays, I'm working as a Software Developer in <a href="https://www.regtech.fi" target="_blank" rel="noopener noreferrer">RegTech by Svea</a>.
 - 📜 I’m AWS Certified SAA and Certified CP.
-- ✔️ I have finished a [Bootcamp](https://clarusway.com) on AWS-DevOps path (Docker, Linux, Jenkins, AWS hands-on expreiences). 
 - 💬 Ask me about anything.
-- ⚡ Fun fact: I love playing tennis and swimming. Now also I should add, Judo 🥋
 
 ## :email: Find me on:
 
