@@ -4,7 +4,7 @@
 ## 🎓 I'm a Lifetime Learner!
 
 - 🔭 I have learned mostly by myself what I learned.
-- 👯 Nowadays, I'm working as a Software Developer in <a href="https://www.regtech.fi" target="_blank" rel="noopener noreferrer">RegTech by Svea</a>.
+- 👯 I'm working as a Software Developer in <a href="https://www.svea.com/fi-fi" target="_blank" rel="noopener noreferrer">Svea Bank</a>.
 - 📜 I’m AWS Certified SAA and Certified CP.
 - 💬 Ask me about anything.
 
