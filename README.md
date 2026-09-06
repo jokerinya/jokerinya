@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Ibrahim,
 
   
-👨‍💻 I'm working as a Software Engineer at <a href="https://www.svea.com/fi-fi" target="_blank" rel="noopener noreferrer">Svea Bank</a>.
+👨‍💻 I'm working as a Software Engineer at <a href="https://www.meetingpackage.com" target="_blank" rel="noopener noreferrer">Meeting Package</a>.
 ## Find me on:
 <p>
  <a href="https://www.linkedin.com/in/ibrahimsakaci" target="_blank" rel="noopener noreferrer">
